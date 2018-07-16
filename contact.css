@@ -1,0 +1,22 @@
+
+
+#social-buttons button {
+  color:pink;
+}
+.btn-twitter{
+  background-color: #00acee;o
+  border-color:  #009ad5;
+
+}
+.btn-facebook{
+  background-color: #4868ac;
+  border-color: #314776;
+}
+.btn-pinterest{
+  background-color: #b62f26;
+  border-color: #b62f26;
+}
+body{
+
+  background-color:purple;
+}
